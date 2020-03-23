@@ -19,8 +19,8 @@ mjpg-streamer now supports a variety of different input devices.
 Security warning
 ----------------
 
-**WARNING**: mjpg-streamer should not be used on untrusted networks!
-By default, anyone with access to the network that mjpg-streamer is running
+**WARNING**: mjpg-streamer should not be used on untrusted networks without first enabling a firewall!
+Without appropriate firewall rules, by default anyone with access to the IP network the mjpg-streamer is running
 on will be able to access it.
 
 Plugins
